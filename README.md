@@ -20,12 +20,16 @@ The system is capable of adding records for captains, booking rides, finishing a
 >>*QUIT:* This command will stop the program.
 >
 >---
->Finally there are three classes:
+>there are three classes:
 >>
 >>*CaptainNode.java:* This class will be used to create objects of type captain and it will store each captain’s information.
 >>
 >>*UberTree.java:* All the methods will be implemented in this class.
 >>
 >>*MainProgram.java:* This is the class that contains the main.
+>
+>---
+>
+>Fianlly check the output.txt file for the output !
 
 
