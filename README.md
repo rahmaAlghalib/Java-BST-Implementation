@@ -18,6 +18,7 @@ The system is capable of adding records for captains, booking rides, finishing a
 >-*DELETE_CAPTAIN:* This command has one value that represents the captain’s ID. The command will search for this captain in the tree then remove his/her node from the BST, and it will output the “The captain <name> left Uber” message. If the specified captain is not found, it will output the “Couldn’t find any captain with ID number <ID >” message.
 >
 >-*QUIT:* This command will stop the program.
+>
 >---
 >Finally there are three classes:
 >*CaptainNode.java:* This class will be used to create objects of type captain and it will store each captain’s information.
